@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.header{
+    background-image: url('images/banner/banner2.png');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.banner-details{
+    text-align: right;
+    padding-right: 50px;
+   margin: 0 200px;
+    
+    width: 400px;
+    margin-left: auto;
+
+}
+
+.header-title{
+        font-size: 50px;
+        
+}
+    
+
+.button-contact{
+    background-color: tomato;
+    border: 0;
+    color: white;
+    padding: 10px 15px;
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: 20px;
+    border-radius:5px;
+}
+/* body style  */
+.banner2{
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    margin: 0 200px;
+    
+    
+}
+.second-banner-title{
+    width: 500px;
+    margin-left: auto;
+}
+.second-banner-paragrap{
+            margin-top: 20px;
+            color: darkgray;
+}
+
+.check-space{
+    padding-right: 10px;
+}
+
+/* main section */
+main{
+    max-width: 1141px;
+    margin: 0 auto;
+}
+/* my plans part  */
+.plans{
+    margin-top: 130px;
+    background: #ffffff ;
+    border-radius: 10px;
+    padding: 50px 10px;
+}
+.plans-title{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.plans-info{
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-section{
+    background-image: url('images/watch.png');
+    height: auto;
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+
+    
+}
+.call-now img{
+    width: 100%;
+    display: block;
+}
+.section-title{
+            position: absolute;
+        top: 30px;
+        left: 20px;
+        font-size: 30px;
+        width: 450px;
+    margin-right: auto;
+    text-align: left;
+}
+.section-button{
+    position: absolute;
+        top: 150px;
+        left: 25px;
+}
+.style{
+    background-color:white;
+    border: 0;
+    color: #ff6347;
+    padding: 12px 22px;
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: auto;
+    border-radius:5px;
+    
+}
+.contact{
+    
+    margin: 0 auto;
+    background-color: black;
+    padding: 50px 100px;
+    margin-top: 60px;
+    margin-right: auto;
+    text-align: left;
+    
+}
+.contact-section{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    background: cover;
+    
+}
+.button{
+    background-color:white;
+    border: 0;
+    color: tomato;
+    padding: 10px 15px;
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: 20px;
+    border-radius:5px;}
+
+.contact-info{
+    color: #ffffff;
+    text-align: left;
+    width: 450px;
+    
+
+}
+.contact-title{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.contact-style{
+    margin-top: 20px;
+}
+.title{
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+input{
+    height: 45px;
+    width: 300px;
+    background-color: black;
+    color: #ffffff;
+    border-radius:8px;
+}
